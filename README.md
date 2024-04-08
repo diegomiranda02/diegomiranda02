@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **diegomiranda02/diegomiranda02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +21,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://carloslevir.com">Medium Blog</a>
-  <a href="https://carloslevir.com">LinkedIn</a>
+  <a href="https://medium.com/@diego.miranda02">Medium Blog</a>
+  <a href="https://www.linkedin.com/in/diego-miranda-de-paula/">LinkedIn</a>
 </p>
 
 ---
