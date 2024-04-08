@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center">
   ![alt text](https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)
-
+</p>
 
 
 
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 ## A little bit about me
 
 Hi there 👋🏻  
-I'm Diego Miranda, Software Engineer at [MessageBird](https://www.messagebird.com/en/), working over React.Js ecosystem.
-
-My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
+I'm Diego Miranda, with over two decades of experience in software development and a steadfast commitment to lifelong learning, I've been applying technology to problem-solving scenarios. Over the past five years, I've broadened my expertise to include data science and engineering, adding a new dimension to my career.
 
 Currently learning: <img src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>, <img src="https://i.ibb.co/T0XzYVK/apollo.png" width="20"/> <b>Apollo</b>
