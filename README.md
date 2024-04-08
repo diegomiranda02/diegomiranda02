@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-   ![Passo a passo do uso do framework 1 (1)](https://github.com/diegomiranda02/LLM_Portuguese_With_FAISS_Vector_DB/assets/9868024/492cf05e-4f21-4912-85ff-4e53d3f04d3e)
-</p>
+
+![alt text](https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)
+
 
 <p align="center">
   <a href="https://carloslevir.com">Medium Blog</a>
