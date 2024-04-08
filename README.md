@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 ---
 
-## A little bit about me
+## About me
 
-Hi there 👋🏻  
 I'm Diego Miranda, with over two decades of experience in software development and a steadfast commitment to lifelong learning, I've been applying technology to problem-solving scenarios. Over the past five years, I've broadened my expertise to include data science and engineering, adding a new dimension to my career.
 
-Currently learning: <img src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>, <img src="https://i.ibb.co/T0XzYVK/apollo.png" width="20"/> <b>Apollo</b>
+Currently learning: Artificial Intelligence, CrewAI, NLP, MLOps and LLMOps
