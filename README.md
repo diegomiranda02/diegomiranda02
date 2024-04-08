@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  ![alt text](https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)
+  <img src="<https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)" alt="CL Thumb" border="0" width="100%">
 </p>
 
 
