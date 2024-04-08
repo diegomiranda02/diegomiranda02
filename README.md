@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![alt text](https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)
+  ![alt text](https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)
+
+
 
 
 <p align="center">
