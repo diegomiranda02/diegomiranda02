@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="<https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)" alt="CL Thumb" border="0" width="100%">
+  <img src="https://github.com/diegomiranda02/diegomiranda02/blob/main/linkedin_background.jpeg?raw=true)" alt="CL Thumb" border="0" width="100%">
 </p>
 
 
